@@ -22,6 +22,7 @@ pip install (flask, flask_sqlalchemy, PyPDF2, pptx, docx, flask_cors)
 ## Usage
 
 1. Start the backend server:
+cd Backend
 flask run
 
 2. Start the frontend development server:
