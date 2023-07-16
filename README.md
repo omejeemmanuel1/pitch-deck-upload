@@ -17,8 +17,9 @@ This project allows users to upload pitch deck documents (PDF, PowerPoint, or Wo
 
 - git clone <https://github.com/omejeemmanuel1/pitch-deck-upload.git>
 
-2.Install the dependencies:
-pip install (flask, flask_sqlalchemy, PyPDF2, pptx, docx, flask_cors)
+2. Install the dependencies:
+
+- pip install flask, flask_sqlalchemy, PyPDF2, pptx, docx, flask_cors
 
 ## Usage
 
